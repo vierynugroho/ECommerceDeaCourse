@@ -1,0 +1,12 @@
+TUGAS:
+
+1. ISI KONTEN DI BAGIAN category.html, product.html dan contact (DONE)
+2. hubungkan semua navigasi ke html yg sesuai. (DONE)
+3. tambahkan icon tab browser DONE
+4. kasih gap di bagian paling bawah ketika mobile responsive footernya tertutup. (DONE)
+5. mengubah function chat menjadi kirim ke whatsapp admin untuk menanyakan sesuatu. (DONE)
+6. Tambah animasi disemua element.(DONE)
+
+
+
+maybe edit kategori toggle button
